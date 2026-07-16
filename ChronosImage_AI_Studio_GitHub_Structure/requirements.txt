@@ -1,0 +1,10 @@
+Flask>=3.0
+torch
+torchvision
+diffusers
+transformers
+accelerate
+safetensors
+Pillow
+controlnet-aux
+huggingface-hub
